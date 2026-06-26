@@ -124,6 +124,32 @@ readable typography.
 
 ---
 
+### Imagens 
+
+Ricoh IM 430F 418490 | IM430 IM430F
+
+<img width="1254" height="1254" alt="ChatGPT Image 21 de jun  de 2026, 12_49_45" src="https://github.com/user-attachments/assets/88d14016-e436-47a1-bf1f-92d0fc73ff1d" />
+
+Ubiquiti UniFi U7 Lite Access Point Wi-Fi 7
+
+<img width="1254" height="1254" alt="ChatGPT Image 21 de jun  de 2026, 13_11_44" src="https://github.com/user-attachments/assets/b6905be5-3818-404f-9c8b-6fed804c0d52" />
+
+Switch HPE Aruba 6100 - JL675A - 48P
+
+<img width="1254" height="1254" alt="ChatGPT Image 21 de jun  de 2026, 13_18_15" src="https://github.com/user-attachments/assets/db17c979-fb37-4de3-b9ee-d3707c6bcddc" />
+
+Cisco Systems CP-9951 IP Phone
+
+<img width="1254" height="1254" alt="ChatGPT Image 21 de mai  de 2026, 19_33_22" src="https://github.com/user-attachments/assets/d614b063-eeec-4b1d-9a81-c2ef7b33a0f9" />
+
+
+
+
+
+
+
+
+
 ## ✏️ Como personalizar (passo a passo)
 
 | Campo no template | O que colocar |
